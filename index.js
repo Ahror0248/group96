@@ -62,16 +62,16 @@ const p = 3.14
 // console.log((a**2+b**2)**0.5)
 // console.log(a+b+c)
 
-// Begin-13 
-// var R1=5
-// var R2=4
-// var S1 = p*R1
-// var S2 = p*R2
-// var S3 = p*(R1-R2)
-// console.log(S1, S2, S3 )
+    // Begin-13 
+    var R1=5
+    var R2=4
+    var S1 = p*R1
+    var S2 = p*R2
+    var S3 = p*(R1-R2)
+    console.log(S1, S2, S3 )
 
 // Begin-14 
-var L=5
-var R = L/2*p
-var S=p*R**2
-console.log(R)
+// var L=5
+// var R = L/2*p
+// var S=p*R**2
+// console.log(R)
